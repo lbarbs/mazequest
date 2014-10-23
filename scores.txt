@@ -1,0 +1,93 @@
+Name: Anon	Level 8 Explorer	Score: 101	Rooms: 45	Turns: 121.
+Weapon: longsword	Armour: breastplate.
+
+Name: Anon	Level 2 Explorer	Score: -3	Rooms: 6	Turns: 13.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 2 Explorer	Score: 8	Rooms: 9	Turns: 18.
+Weapon: mace	Armour: suit of scale mail.
+
+Name: Anon	Level 3 Explorer	Score: 11	Rooms: 10	Turns: 25.
+Weapon: handaxe	Armour: jacket.
+
+Name: Anon	Level 3 Explorer	Score: -3	Rooms: 7	Turns: 19.
+Weapon: fists	Armour: suit of scale mail.
+
+Name: Anon	Level 4 Explorer	Score: 32	Rooms: 14	Turns: 35.
+Weapon: longsword	Armour: suit of scale mail.
+
+Name: Anon	Level 3 Explorer	Score: -8	Rooms: 4	Turns: 16.
+Weapon: fists	Armour: suit of chain mail.
+
+Name: Anon	Level 1 Explorer	Score: -14	Rooms: 0	Turns: 18.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 5 Explorer	Score: 47	Rooms: 16	Turns: 46.
+Weapon: dagger	Armour: suit of scale mail.
+
+Name: Anon	Level 5 Explorer	Score: 10	Rooms: 25	Turns: 57.
+Weapon: greatsword	Armour: suit of scale mail.
+
+Name: Anon	Level 2 Explorer	Score: -11	Rooms: 2	Turns: 6.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 3 Explorer	Score: 21	Rooms: 14	Turns: 33.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 7 Explorer	Score: 80	Rooms: 58	Turns: 128.
+Weapon: greatsword	Armour: suit of scale mail.
+
+Name: Anon	Level 2 Explorer	Score: -7	Rooms: 6	Turns: 13.
+Weapon: longsword	Armour: jacket.
+
+Name: Anon	Level 1 Explorer	Score: -6	Rooms: 3	Turns: 5.
+Weapon: fists	Armour: suit of leather armour.
+
+Name: Anon	Level 4 Explorer	Score: 21	Rooms: 12	Turns: 29.
+Weapon: longsword	Armour: breastplate.
+
+Name: Anon	Level 5 Explorer	Score: 13	Rooms: 18	Turns: 45.
+Weapon: longsword	Armour: suit of chain mail.
+
+Name: Anon	Level 4 Explorer	Score: -2	Rooms: 11	Turns: 28.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 5 Explorer	Score: 4	Rooms: 11	Turns: 34.
+Weapon: mace	Armour: jacket.
+
+Name: Anon	Level 5 Explorer	Score: 52	Rooms: 25	Turns: 63.
+Weapon: longsword	Armour: suit of leather armour.
+
+Name: Mr B	Level 8 Explorer	Score: 91	Rooms: 48	Turns: 104.
+Weapon: mace	Armour: chain shirt.
+
+Name: Anon	Level 1 Explorer	Score: -9	Rooms: 0	Turns: 4.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 1 Explorer	Score: 0	Rooms: 0	Turns: 1.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 2 Explorer	Score: -9	Rooms: 7	Turns: 15.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 1 Explorer	Score: 0	Rooms: 0	Turns: 1.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 1 Explorer	Score: -17	Rooms: 0	Turns: 1.
+Weapon: fists	Armour: jacket.
+
+Name: Mr B	Level 3 Explorer	Score: 13	Rooms: 11	Turns: 32.
+Weapon: short sword	Armour: jacket.
+
+Name: Anon	Level 3 Explorer	Score: 2	Rooms: 12	Turns: 18.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 1 Explorer	Score: -8	Rooms: 2	Turns: 3.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 1 Explorer	Score: 2	Rooms: 1	Turns: 4.
+Weapon: fists	Armour: jacket.
+
+Name: Anon	Level 1 Explorer	Score: 0	Rooms: 0	Turns: 2.
+Weapon: fists	Armour: jacket.
+
